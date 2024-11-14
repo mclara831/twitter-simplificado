@@ -9,7 +9,7 @@ Além disso, ele conta com um sistema de autenticação e autorização com toke
 
 Esse projeto foi construído utilizando Java, Java Spring, PostgresSQL como banco de dados, Spring Security and JWT para controle de autenticação e autorização.
 
-## Tecnologis utilizadas
+## Tecnologias utilizadas
 
 - **Java 17**: Linguagem de programação principal.
 - **Spring Boot**: Framework para a criação de aplicações Java com configuração mínima.
